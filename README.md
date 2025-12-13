@@ -1,5 +1,5 @@
 # Employee-System
-The *EmployeeSystem* is a Spring Boot application for managing employee records. It provides RESTful APIs to perform CRUD operations on employee data.
+The *EmployeeSystem* is a Spring Boot application for managing employee records. It provides RESTful APIs to perform CRUD operations on employee data.The system handles employee information like names, ages, departments, salaries, etc. It may include features like adding, updating, deleting, and retrieving employee records.
 
 Features
 - Add new employees.
