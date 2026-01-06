@@ -1,20 +1,20 @@
 *Your Skills:*
 
-- Expertise in designing and developing APIs for voting application systems
-- Strong knowledge of RESTful APIs, HTTP methods, and API security
-- Experience with API integration, testing, and deployment
-- Proficient in handling API authentication and authorization
+- Proficient in API design and development
+- Strong understanding of RESTful APIs and HTTP methods
+- Experienced in integrating APIs with various applications
+- Knowledge of API security and authentication mechanisms
 
 *Impact:*
 
-- Developed APIs for voting, candidate management, and result tracking
-- Improved voting process efficiency by 40% through optimized API endpoints
+- Successfully designed and implemented APIs for employee management system
+- Improved data retrieval and manipulation efficiency by 30%
 - Enhanced API security with robust authentication and authorization mechanisms
-- Contributed to a scalable and maintainable API architecture for the voting application
+- Contributed to the development of a scalable and maintainable API architecture
 
 *Contribution:*
 
-- Designed and implemented APIs for user registration, voting, and result tracking
+- Developed APIs for employee skills, impact, and contribution tracking
+- Implemented API endpoints for CRUD operations on employee data
 - Collaborated with the team to integrate APIs with the frontend application
 - Conducted thorough testing and debugging of APIs to ensure reliability and performance
-- Provided API documentation and training to the team
